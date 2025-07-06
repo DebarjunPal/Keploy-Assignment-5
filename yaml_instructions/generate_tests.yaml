@@ -1,0 +1,9 @@
+task: Generate Google Test unit tests for the provided C++ code.
+requirements:
+  - Cover all public functions.
+  - Use meaningful test names.
+  - No duplicate or redundant tests.
+  - Add necessary #include statements.
+  - Output each test in a separate file if possible.
+  - Integrate with GNU code coverage tools.
+strict: true

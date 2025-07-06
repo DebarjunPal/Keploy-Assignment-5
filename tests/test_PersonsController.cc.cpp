@@ -1,0 +1,1 @@
+// LLM API error: HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9033F2C50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))

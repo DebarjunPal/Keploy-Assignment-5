@@ -1,0 +1,8 @@
+task: Refine and improve the generated Google Test unit tests.
+requirements:
+  - Remove duplicate or redundant tests.
+  - Add missing #include statements and relevant libraries.
+  - Improve test coverage and formatting.
+  - Ensure compatibility with GNU code coverage tools.
+  - Reject any tests that do not add value.
+strict: true
